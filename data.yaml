@@ -1,0 +1,14 @@
+path: ../datasets/carPlate
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['Mobil', 'Motor', 'Plat']
+
+roboflow:
+  workspace: easy-apk-trhqj
+  project: scan-plat-nomor-kendaraan
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/easy-apk-trhqj/scan-plat-nomor-kendaraan/dataset/2
