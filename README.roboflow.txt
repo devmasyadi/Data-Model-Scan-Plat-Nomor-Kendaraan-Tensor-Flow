@@ -1,8 +1,8 @@
 
-Scan Plat Nomor Kendaraan - v2 2023-09-20 11:13pm
+Scan Plat Nomor Kendaraan - v9 2023-09-21 2:57am
 ==============================
 
-This dataset was exported via roboflow.com on September 20, 2023 at 4:14 PM GMT
+This dataset was exported via roboflow.com on September 21, 2023 at 4:50 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,8 +17,8 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 981 images.
-Scan Plat Nomor Kendaraan Indonesia are annotated in YOLO v5 PyTorch format.
+The dataset includes 1012 images.
+Scan Plat Nomor Kendaraan Indonesia are annotated in COCO format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
